@@ -621,3 +621,9 @@ pre code {
 #license .container {
   width: 740px;
 }
+#license img {
+  margin-top: 0;
+}
+#license h2 {
+  margin-bottom: -20px;
+}
